@@ -1,5 +1,5 @@
 
-The application is do - created with the user in mind. The application to do allows you to create any list, for example, shopping. Things done when pressed are marked in green, things not done remain in red. The application offers various functions, i.e. deleting things, adding, displaying specific items, etc.
+The application is do - created with the user in mind. The application to do allows you to create any list, for example, shopping. After click enter you will add your information into list. Things done when pressed are marked in green, things not done remain in red. The application offers various functions, i.e. deleting things, adding, displaying specific items, etc.
 
 Technologies used: React, Java Script, HTML, Scss, Firebase - hosting.
 
